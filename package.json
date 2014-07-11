@@ -1,0 +1,17 @@
+{
+  "name": "bbbuy-store",
+  "private": true,
+  "version": "0.0.0",
+  "description": "BBBuy Store.",
+  "author": "Carlos Canizal",
+  "repository": "https://github.com/codecery/bbbuy-store",
+  "license": "MIT",
+  "devDependencies": 
+  {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.3.3",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-bower-task": "*"
+  }
+}
